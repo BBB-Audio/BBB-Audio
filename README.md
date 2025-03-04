@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BBB-Audio
+- 👋 Hi, I’m Dirk
 - 👀 I’m interested in Audio Applications & App-Development
 - 🌱 I’m currently learning App-Developer
 - 💞️ I’m looking to collaborate on Audio Toolz
